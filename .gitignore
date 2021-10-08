@@ -1,0 +1,15 @@
+/paths.txt
+/search.py
+/search2.py
+/server/lenta-ru-news.csv
+/server/prepare_doc.py
+/client/src/components/Kbsp.vue
+/client/src/components/HelloWorld.vue
+/client/src/components/OnePage.vue
+/client/src/assets/logo.png
+/client/node-modules/**
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
